@@ -6,16 +6,16 @@ Submitted by: Cristian R Melendez Gonzalez
 
 Time spent: 20 hours spent in total
 
-Main Menu Vie Controller:
+Main Menu View Controller:
 
 file:///Users/cristianrmelendez/Desktop/Screen%20Shot%202015-12-05%20at%209.02.03%20PM.png
 
-Settings Menu Controller:
+Settings View Controller:
 
 file:///Users/cristianrmelendez/Desktop/Screen%20Shot%202015-12-05%20at%209.03.01%20PM.png
 
 
-In my Tip Calculator i also add an extra Text field who let the user put how many persons are going to pay the bill, 
+In my Tip Calculator i also add an extra Text field that let the user put how many persons are going to pay the bill, 
 then the App calculate how many each person have to pay and display it. It also calculate how many each person has to tip.
 
 Giff walkthrough:
